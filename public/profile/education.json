@@ -1,19 +1,17 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Jul 2019 - Jul 2023",
+            "cardTitle": "B.Tech, Electronics and Communication",
+            "cardSubtitle":"Vellore Institute of Technology, Vellore",
+            "cardDetailedText": "CGPA - 9.24"
+
         },
         {
-            "title": "Apr 20XX",
+            "title": "Apr 2019",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Bethany High, Bangalore",
+            "cardDetailedText": "GPA - 9.75"
         }
     ]
 }
