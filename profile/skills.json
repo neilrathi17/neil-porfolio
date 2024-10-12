@@ -1,0 +1,84 @@
+{
+    "intro": "I enjoy learning and working on new technologies as it lets me learn and deliver at the same time.",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+
+
+
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/tensorflow.png",
+                    "title": "Tensorflow"
+                },
+                {
+                    "icon":"images/skills/pytorch.png",
+                    "title":"Pytorch"
+
+                },
+                {
+                    "icon":"images/skills/opencv.png",
+                    "title":"Opencv"
+
+                },
+                {
+                    "icon":"images/skills/ROS.png",
+                    "title":"ROS"
+
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/langchain.svg",
+                    "title": "Lanchain"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/Azure.png",
+                    "title": "Azure"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/Azure-AI.png",
+                    "title": "Azure-AI-Services"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                }
+            ]
+    }
+]}

@@ -1,0 +1,17 @@
+{
+    "education":[
+        {
+            "title": "Jul 2019 - Jul 2023",
+            "cardTitle": "B.Tech, Electronics and Communication",
+            "cardSubtitle":"Vellore Institute of Technology, Vellore",
+            "cardDetailedText": "CGPA - 9.24"
+
+        },
+        {
+            "title": "Apr 2019",
+            "cardTitle": "High School",
+            "cardSubtitle":"Bethany High, Bangalore",
+            "cardDetailedText": "GPA - 9.75"
+        }
+    ]
+}

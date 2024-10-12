@@ -1,0 +1,15 @@
+{
+    "experiences": [
+        {
+            "title": "Computer Vision - Analyst",
+            "subtitle": "Eli Lilly and Co",
+            "workType": "Full-time",
+            "workDescription": [
+                "Delivered on multiple computer vision projects from image segmentation to document forensics",
+                "Worked on Generative AI projects including Video lipsyncing, Avatar generation, contextual image analysis etc"
+            ],
+            "dateText": "06/2023 – Present"
+        }
+       
+    ]
+}
