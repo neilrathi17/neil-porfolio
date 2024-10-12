@@ -9,10 +9,7 @@
                     "icon": "images/skills/java.png",
                     "title": "Java"
                 },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
+
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
@@ -30,8 +27,23 @@
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/tensorflow.png",
+                    "title": "Tensorflow"
+                },
+                {
+                    "icon":"images/skills/pytorch.png",
+                    "title":"Pytorch"
+
+                },
+                {
+                    "icon":"images/skills/opencv.png",
+                    "title":"Opencv"
+
+                },
+                {
+                    "icon":"images/skills/ROS.png",
+                    "title":"ROS"
+
                 },
                 {
                     "icon": "images/skills/react.png",
@@ -40,6 +52,10 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/langchain.svg",
+                    "title": "Lanchain"
                 }
             ]
         },
@@ -47,16 +63,20 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/Azure.png",
+                    "title": "Azure"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/Azure-AI.png",
+                    "title": "Azure-AI-Services"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
                 }
             ]
     }

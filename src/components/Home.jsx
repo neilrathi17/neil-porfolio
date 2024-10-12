@@ -75,6 +75,7 @@ const styles = {
     flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
+    boxShadow: '.5px 0 0 #000',
   },
   aboutContainer: {
     flex: 1,
@@ -130,7 +131,7 @@ function Portfolio() {
       <div style={styles.homeContainer}>
         {homeData ? (
           <Fade>
-            <h1 style={styles.nameStyle}>{homeData?.name}</h1>
+            <h2 style={styles.nameStyle}>{homeData?.name}</h2>
             <img width={300} height={300} src={aboutData?.imageSource} alt="profile" />
             <Social />
           </Fade>
