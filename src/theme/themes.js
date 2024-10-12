@@ -22,7 +22,7 @@ export const lightTheme = {
 };
 
 export const darkTheme = {
-  background: '#121212',
+  background: '#00080f',
   color: '#eee',
   accentColor: '#3D84C6',
   chronoTheme: {
@@ -35,9 +35,9 @@ export const darkTheme = {
   cardFooterBackground: '#181818',
   cardBorderColor: '#ffffff20',
   navbarTheme: {
-    linkColor: '#dedede',
-    linkHoverColor: '#fefefe',
-    linkActiveColor: '#fefefe',
+    linkColor: '#6EACDA',
+    linkHoverColor: '#FFFFFF',
+    linkActiveColor: '#FFFFFF',
   },
   bsPrimaryVariant: 'dark',
   bsSecondaryVariant: 'light',

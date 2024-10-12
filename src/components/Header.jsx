@@ -4,7 +4,7 @@ import '../App.css';
 
 function Header(props) {
   const { title } = props;
-  return <div className="header">{title}</div>;
+  return <h5 className="header">{title}</h5>;
 }
 
 Header.propTypes = {

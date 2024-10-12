@@ -87,6 +87,9 @@ const styles = {
     fontSize: '5em',
     marginBottom: '30px',
   },
+  imgStyle: {
+    borderRadius: '5px',
+  },
   introTextContainer: {
     margin: 10,
     flexDirection: 'column',
@@ -131,8 +134,8 @@ function Portfolio() {
       <div style={styles.homeContainer}>
         {homeData ? (
           <Fade>
-            <h2 style={styles.nameStyle}>{homeData?.name}</h2>
-            <img width={300} height={300} src={aboutData?.imageSource} alt="profile" />
+            <h3 style={styles.nameStyle}>{homeData?.name}</h3>
+            <img width={250} height={250} style={styles.imgStyle} src={aboutData?.imageSource} alt="profile" />
             <Social />
           </Fade>
         ) : <FallbackSpinner />}

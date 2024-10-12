@@ -55,7 +55,7 @@ const NavBar = () => {
       fixed="top"
       expand="md"
       bg="dark"
-      variant="dark"
+      variant="light"
       className="navbar-custom"
       expanded={expanded}
     >

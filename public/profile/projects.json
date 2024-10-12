@@ -18,7 +18,7 @@
             "bodyText": "- Image segmentation projects that use deep learning models to isloate areas of an image that are of medical interest\n - Used custom written pytorch computer vision models as well as foundational models such as segment-anything\n - Output results are used by research team.",
   
             "tags" : [
-                "Pyton",
+                "Python",
                 "Pytorch",
                 "Computer Vision",
                 "Deep learning"
