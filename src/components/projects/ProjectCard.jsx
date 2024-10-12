@@ -7,11 +7,14 @@ import { ThemeContext } from 'styled-components';
 import ReactMarkdown from 'react-markdown';
 
 const styles = {
+  imageStyle: {
+    height: 150,
+  },
   badgeStyle: {
     paddingLeft: 10,
     paddingRight: 10,
-    paddingTop: 5,
-    paddingBottom: 5,
+    paddingTop: 2,
+    paddingBottom: 2,
     margin: 5,
   },
   cardStyle: {
@@ -49,7 +52,7 @@ const ProjectCard = (props) => {
         }}
         text={theme.bsSecondaryVariant}
       >
-        <Card.Img variant="top" src={project?.image} />
+        <Card.Img variant="top" src={project?.image} style={styles.imageStyle} />
         <Card.Body>
           <Card.Title style={styles.cardTitleStyle}>{project.title}</Card.Title>
           <Card.Text style={styles.cardTextStyle}>

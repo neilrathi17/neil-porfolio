@@ -9,6 +9,7 @@ import ProjectCard from './projects/ProjectCard';
 import FallbackSpinner from './FallbackSpinner';
 
 const styles = {
+
   containerStyle: {
     marginBottom: 25,
   },
